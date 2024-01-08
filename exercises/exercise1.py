@@ -20,7 +20,7 @@ maria_programacion_2 = Nota("Programación 2", 6)
 pedro_base_de_datos = Nota("Base de datos", 5)
 
 init_data = [
-    Estudiante("47526381", "Juan", [juan_programacion_1]), 
+    Estudiante("47526381", "Juan", [juan_programacion_1]),
     Estudiante("46193480", "María", [maria_programacion_1, maria_programacion_2]),
     Estudiante("43796248", "Pedro", [pedro_base_de_datos])
 ]
